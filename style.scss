@@ -1,5 +1,6 @@
+@use "./common";
 body {
-  background-color: #ffc;
+  background-color: $pink;
   display: flex;
   justify-content: center;
   align-items: center;
